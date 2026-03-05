@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+datasets
+python-dotenv
+openai
+pandas
+matplotlib
+seaborn
